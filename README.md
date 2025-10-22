@@ -59,5 +59,3 @@ Run the Code: Run the Python script containing all analysis steps and the ML mod
 
 ### 5. License
 This project is licensed. You can review the license file for usage and distribution details.
-
-Translated with DeepL.com (free version)
